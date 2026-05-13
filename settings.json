@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFK-BOT",
+    "username": "YourlocalYT-live",
     "password": "",
     "type": "offline"
   },
@@ -26,13 +26,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "Subscribe to YourlocalYT!",
+        "Minecraft is fun!"
       ]
     },
     "chat-log": true,
